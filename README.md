@@ -1,4 +1,4 @@
-# Data sets of volunteer task execution events in Galaxy Zoo and the Milky Way Project between 2010 and 2012
+# Data sets of volunteer task execution events in Galaxy Zoo and The Milky Way Project between 2010 and 2012
 
 ## Context of the data sets
 
