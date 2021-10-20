@@ -33,6 +33,6 @@ The data sets stored in this repository are freely available to be used at the C
 
 ## References
 
-Lesandro Ponciano, Francisco Brasileiro, Robert Simpson, Arfon Smith, "Volunteers' Engagement in Human Computation Astronomy Projects," Computing in Science and Engineering  vol. 16, no. 6, pp. 52-59 (2014) DOI: [10.1109/MCSE.2014.4](https://doi.org/10.1109/MCSE.2014.4)
+Lesandro Ponciano, Francisco Brasileiro, Robert Simpson and Arfon Smith. "Volunteers' Engagement in Human Computation Astronomy Projects," Computing in Science and Engineering  vol. 16, no. 6, pp. 52-59 (2014) DOI: [10.1109/MCSE.2014.4](https://doi.org/10.1109/MCSE.2014.4)
 
 Lesandro Ponciano and Francisco Brasileiro. Finding Volunteers' Engagement Profiles in Human Computation for Citizen Science Projects. Human Computation  vol. 1, no. 2, pp. 245-264  (2014). DOI: [10.15346/hc.v1i2.12](https://doi.org/10.15346/hc.v1i2.12)
