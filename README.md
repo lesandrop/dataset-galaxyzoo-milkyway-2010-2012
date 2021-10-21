@@ -2,18 +2,18 @@
 
 ## Context of the data sets
 
-Galaxy Zoo and the Milky Way Project were hosted on the Zooniverse platform (www.zooniverse.org). The Zooniverse has successfully built a large community of volunteers contributing to citizen science projects. 
+The Zooniverse platform (www.zooniverse.org) has successfully built a large community of volunteers contributing to citizen science projects. Galaxy Zoo and the Milky Way Project were hosted there.
 
-The original Galaxy Zoo project was launched in July 2007 but has since been redesigned and relaunched three times, building each time on the success of its predecessor. In 2010, the Zooniverse launched the third iteration of Galaxy Zoo, called Galaxy Zoo: Hubble, but for simplicity, we use the term Galaxy Zoo throughout this text to refer to this project. Each volunteer classifying on Galaxy Zoo is presented with a galaxy from the Sloan Digital Sky Survey (SDSS) or the Hubble Space Telescope as well as a decision tree of questions with answers represented by a fairly simple icon. The task is straightforward, and no specialist knowledge is required to execute it. 
+The original Galaxy Zoo project was launched in July 2007, but has since been redesigned and relaunched three times, building each time on the success of its predecessor. In 2010, the Zooniverse launched the third iteration of Galaxy Zoo, called Galaxy Zoo: Hubble, but for simplicity, we use the term Galaxy Zoo throughout this text to refer to this project. Each volunteer classifying on Galaxy Zoo is presented with a galaxy from the Sloan Digital Sky Survey (SDSS) or the Hubble Space Telescope as well as a decision tree of questions with answers represented by a fairly simple icon. The task is straightforward, and no specialist knowledge is required to execute it. 
 
 Tasks in the Milky Way Project exhibit a larger cognitive load than those in Galaxy Zoo. Volunteers are asked to draw ellipses onto the image to mark the locations of bubbles. A short, online tutorial shows how to use the tool, along with examples of prominent bubbles. As a secondary task, users can also mark rectangular areas of interest, which can be labeled as small bubbles, green knots, dark nebulae, star clusters, galaxies, fuzzy red objects, or “other.” Users can add as many annotations as they wish before submitting the image, at which point they’re given another image for annotation.
 
 
 ## Description of the raw data
 
-In this repository, each file is a project, each line on a file is one classification record. The lines contain three pieces of information separated with commas (","). The first information is the `classification id`, which uniquely identifies the classification in the data set. The second information is the `volunteer id`, which uniquely identifies in the data set the volunteer who carried out the classification. The third information is the `data and time` in which the classification was carried out.
+In this repository, each file is a project, each line on a file is one classification record. The lines contain three pieces of information separated by commas (","). The first information is the `classification id`, which uniquely identifies the classification in the data set. The second information is the `volunteer id`, which uniquely identifies, in the data set, the volunteer who carried out the classification. The third information is the `data and time` in which the classification was carried out.
 
-The data set from the Galaxy Zoo project consists of records of 9,667,586 tasks executed by 86,413 volunteers over 840 days, starting on 17 April 2010. The data set from the Milky Way Project consists of records from 643,408 tasks executed by 23,889 volunteers over 670 days, starting on 3 December 2010. 
+The data set from the Galaxy Zoo project consists of records of 9,667,586 tasks executed by 86,413 volunteers over 840 days, starting on April 17th, 2010. The data set from the Milky Way Project consists of records from 643,408 tasks executed by 23,889 volunteers over 670 days, starting on December 3rd, 2010. 
 
 These datasets were provided by Arfon Smith and Robert Simpson, from the Zooniverse platform, in October, 2012. To understand how volunteers make their contributions in these citizen science projects, [Ponciano, Brasileiro, Simpson and Smith (2014)](https://doi.org/10.1109/MCSE.2014.4) analyzed both data sets considering a volunteer engagement perspective. 
 
