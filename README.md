@@ -11,7 +11,7 @@ Tasks in the Milky Way Project exhibit a larger cognitive load than those in Gal
 
 ## Description of the raw data
 
-In this repository, each file is a project, each line on a file is one classification record. The lines contain three pieces of information separated by commas (","). The first information is the `classification id`, which uniquely identifies the classification in the data set. The second information is the `volunteer id`, which uniquely identifies, in the data set, the volunteer who carried out the classification. The third information is the `data and time` in which the classification was carried out.
+In this repository, each file is a project, each line on a file is one classification record. The lines contain three pieces of information separated by commas (","). The first information is the `classification id`, which uniquely identifies the classification in the data set. The second information is the `volunteer id`, which uniquely identifies, in the data set, the volunteer who carried out the classification. The third information is the `date and time` in which the classification was carried out.
 
 The data set from the Galaxy Zoo project consists of records of 9,667,586 tasks executed by 86,413 volunteers over 840 days, starting on April 17th, 2010. The data set from the Milky Way Project consists of records from 643,408 tasks executed by 23,889 volunteers over 670 days, starting on December 3rd, 2010. 
 
